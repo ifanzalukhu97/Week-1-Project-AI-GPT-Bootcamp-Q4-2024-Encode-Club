@@ -12,16 +12,12 @@ Each script features a distinct AI chef personality. The AI responds to user inp
 2. **Recipe Requests for Specific Dishes**: Provides detailed recipes for requested dishes.
 3. **Recipe Critiques and Improvement Suggestions**: Offers constructive critiques and improvement suggestions for provided recipes.
 
----
-
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 - You have installed Python 3.8 or later.
 - You have installed pip (Python package installer).
 - You have set up your OpenAI API key.
 - Make sure that the OpenAI API key is stored in an environment variable named exactly `OPENAI_API_KEY`.
-
----
 
 ## How to Run
 
@@ -64,13 +60,9 @@ Follow these steps to run the project:
         ```
 
 
----
-
 ## Report / Documentation
 - [Experiment for the Kebab Chef from Turkey Personality](./Burak_week1_homework_conversation.txt)
 - [Experiment for the Elderly Brazilian Grandma Personality](./ifan_week1_homework_conversation.md)
-
----
 
 ## Warning
 
@@ -91,8 +83,6 @@ to :
 client = OpenAI("YOUR_OPENAI_API_KEY")
 ```
 Replace "YOUR_OPENAI_API_KEY" with your actual OpenAI API key.
-
----
 
 ## Contributors
 - [altinburak](https://github.com/altinburak) (ID: toCaj5)
