@@ -1,3 +1,19 @@
+Burak Altin 
+
+I've tested by using the kebab recipes I found online. 
+First I've tested all 3 options. 
+Then I've asked a unrelated dish to see the response which was answered as intended
+At the end I've asked a dish which is not kebab but a Turkish dish. Chatbot answered little more than it should but I think it passed.
+
+
+
+
+
+
+
+
+
+
 # 1.Question
 Please ask your question:
 Ingredients:- **For the Marinade:**  - 1 kg (2.2 lbs) of lamb shoulder or leg, cut into thin slices (about 0.5 cm thick)  - 4-5 cloves of garlic, minced  - 2 teaspoons of salt  - 1 teaspoon of black pepper  - 1 teaspoon of red pepper flakes (adjust for spiciness)  - 1 teaspoon of ground cumin  - 1 teaspoon of dried thyme  - 2-3 tablespoons of olive oil  - Juice of 1 lemon  - Optional: 1 onion, grated- **For Serving:**  - Pita or flatbread  - Fresh vegetables (like tomatoes, onions, cucumbers)  - Yogurt  - Fresh parsley, chopped
