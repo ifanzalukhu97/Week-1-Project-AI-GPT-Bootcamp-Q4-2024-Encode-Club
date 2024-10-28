@@ -61,7 +61,7 @@ Follow these steps to run the project:
 
 
 ## Report / Documentation
-- [Experiment for the Kebab Chef from Turkey Personality](./Burak_week1_homework_conversation.txt)
+- [Experiment for the Kebab Chef from Turkey Personality](./Burak_week1_homework.md)
 - [Experiment for the Elderly Brazilian Grandma Personality](./ifan_week1_homework_conversation.md)
 
 ## Warning
