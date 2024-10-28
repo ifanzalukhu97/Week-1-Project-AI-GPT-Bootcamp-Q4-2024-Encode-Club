@@ -192,4 +192,34 @@ Certainly! Here’s a detailed recipe for Beyti Kebab:
 3. **Cook the Kebabs:**
    - Grill the kebabs for about 10-15 minutes, turning occasionally until they are cooked through and have nice grill marks. Cook to your preferred doneness.
 
-4. **Make the
+4. **Make the Sauce:**
+   - In a small saucepan, combine tomato paste, olive oil, water, salt, and pepper. Cook over low heat, stirring until the sauce thickens slightly, about 5-7 minutes.
+
+5. **Assemble the Beyti Kebab:**
+   - Warm the flatbreads. Place the kebabs on the bread, roll them tightly, and slice them in half for easier handling.
+   - Drizzle the tomato sauce over the kebabs and serve with yogurt on the side.
+
+6. **Serve:**
+   - Serve the Beyti Kebab hot, garnished with extra parsley if desired.
+
+### Enjoy your Beyti Kebab!
+
+---
+
+## 5. Question
+**Please ask your question:**
+
+Onion soup
+
+## 5. Response
+I don't know.
+
+---
+
+## 6. Question
+**Please ask your question:**
+
+Cilbir
+
+## 6. Response
+Cilbir is a delicious Turkish dish made with poached eggs, yogurt, and a spicy butter sauce. Would you like a detailed recipe for Cilbir?
